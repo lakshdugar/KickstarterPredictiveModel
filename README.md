@@ -48,4 +48,4 @@ Through this analysis, we aim to provide insights into the key factors that cont
 
 
 ## Getting Started
-Please check out the file to see the entire project and the objectives worked upon by clicking here: https://github.com/lakshdugar/KickstarterPredictiveModel/blob/main/Kickstarter.html
+Please check out the `Kickstarter.html` file to see the entire project and the objectives worked upon.
